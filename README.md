@@ -13,4 +13,4 @@ To make the website more accessible and to optimize it for search engines.
 
 ![image](https://user-images.githubusercontent.com/69565347/93027978-8e1f4d80-f5c5-11ea-9cb1-57844a9a588d.png)
 
-Click [Here](https://github.com/MitoKito/Horiseon-Webpage) to see original creator.
+Click [Here](https://npcoding25.github.io/homework1/) to see deployed webpage.
