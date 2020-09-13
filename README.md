@@ -11,4 +11,6 @@ To make the website more accessible and to optimize it for search engines.
 
 ![image](https://user-images.githubusercontent.com/69565347/93027813-6f6c8700-f5c4-11ea-80e3-0d0c24eb10f7.png)
 
-Click [Here](file:///C:/Users/Nathan/Desktop/bootcamp/Homework/homework1/index.html)
+![image](https://user-images.githubusercontent.com/69565347/93027978-8e1f4d80-f5c5-11ea-9cb1-57844a9a588d.png)
+
+Click [Here](https://github.com/MitoKito/Horiseon-Webpage) to see original creator.
